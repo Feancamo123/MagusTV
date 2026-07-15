@@ -1,0 +1,34 @@
+#EXTM3U
+
+# ========= CHILE =========
+
+#EXTINF:-1 group-title="🇨🇱 Chile",TVN
+https://iptv-org.github.io/iptv/countries/cl.m3u
+
+#EXTINF:-1 group-title="🇨🇱 Chile",Mega
+https://iptv-org.github.io/iptv/countries/cl.m3u
+
+# ========= INFANTILES =========
+
+#EXTINF:-1 group-title="👶 Infantiles",Kids
+https://iptv-org.github.io/iptv/categories/kids.m3u
+
+# ========= ANIME =========
+
+#EXTINF:-1 group-title="🌸 Anime",Anime
+https://iptv-org.github.io/iptv/categories/animation.m3u
+
+# ========= PELÍCULAS =========
+
+#EXTINF:-1 group-title="🎬 Películas",Movies
+https://iptv-org.github.io/iptv/categories/movies.m3u
+
+# ========= MÚSICA =========
+
+#EXTINF:-1 group-title="🎵 Música",Music
+https://iptv-org.github.io/iptv/categories/music.m3u
+
+# ========= DOCUMENTALES =========
+
+#EXTINF:-1 group-title="📚 Documentales",Documentary
+https://iptv-org.github.io/iptv/categories/documentary.m3u
